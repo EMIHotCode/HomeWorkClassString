@@ -1,0 +1,4 @@
+﻿  BodyClass.cpp
+C:\Users\Admin\source\repos\HomeWorkClassString\HomeWorkClassString\BodyClass.cpp(47,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\HomeWorkClassString\HomeWorkClassString\BodyClass.cpp(71,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  HomeWorkClassString.vcxproj -> C:\Users\Admin\source\repos\HomeWorkClassString\x64\Debug\HomeWorkClassString.exe
